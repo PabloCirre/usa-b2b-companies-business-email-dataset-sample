@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "title": "USA B2B Companies & Corporate Email Database Schema Sample (2026)",
+    "upload_type": "dataset",
+    "description": "<p>Open 50-row 15-column standardized B2B corporate schema sample for <strong>United States (USA — All 50 States &amp; Washington, D.C.)</strong> classified by 6-Digit NAICS 2022 &amp; 4-Digit US SIC. Full unlocked Excel/CSV production dataset (1,064,565 active US companies, 596,248 verified corporate emails, 982,410 direct phones; $125.00 USD one-time license) documented at <a href='https://bigdatalowcost.com/databases/best-usa-email-business-database/'>https://bigdatalowcost.com/databases/best-usa-email-business-database/</a> and <a href='https://bigdatalowcost.com/free-demo/?country=united-states'>https://bigdatalowcost.com/free-demo/?country=united-states</a>.</p>",
+    "creators": [
+      {
+        "name": "BigDataLowCost Research Team",
+        "affiliation": "BigDataLowCost.com"
+      }
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "keywords": [
+      "usa business email list",
+      "us company database excel",
+      "buy b2b email list usa",
+      "naics company directory csv",
+      "B2B company database",
+      "corporate directory schema",
+      "Excel CSV dataset"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://bigdatalowcost.com/databases/best-usa-email-business-database/",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://bigdatalowcost.com/free-demo/?country=united-states",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://bigdatalowcost.com/business-databases-for-sale/",
+        "relation": "isPartOf",
+        "scheme": "url"
+      }
+    ]
+  }
+}
