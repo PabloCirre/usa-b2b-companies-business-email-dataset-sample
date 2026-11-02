@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "USA B2B Companies & Corporate Email Database Schema Sample (2026)"
+message: "If you use this US B2B corporate dataset schema in your CRM enrichment, market research, or data engineering pipelines, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Cirre"
+    given-names: "Pablo"
+    affiliation: "BigDataLowCost.com"
+repository-code: "https://github.com/PabloCirre/usa-b2b-companies-business-email-dataset-sample"
+url: "https://bigdatalowcost.com/databases/best-usa-email-business-database/"
+abstract: "Open 50-row 15-column standardized B2B corporate schema sample for the United States (All 50 States & Washington, D.C.) segmented by 6-Digit NAICS 2022 and 4-Digit US SIC codes. Documents the production United States B2B Companies & Email Database (1,064,565 active US companies, 596,248 verified corporate emails, and 982,410 direct phone numbers) available in unlocked Microsoft Excel (.xlsx) and CSV formats at BigDataLowCost.com."
+keywords:
+  - "usa business email list"
+  - "us company database excel"
+  - "buy b2b email list usa"
+  - "naics company directory csv"
+  - "b2b lead generation"
+license: CC-BY-4.0
+version: "2026.4.0"
+date-released: "2026-11-01"
