@@ -1,0 +1,132 @@
+{
+  "profile": "tabular-data-package",
+  "name": "usa-b2b-companies-business-email-dataset-sample",
+  "title": "USA B2B Companies & Corporate Email Database Schema Sample (2026)",
+  "description": "Open 50-row 15-column B2B corporate directory schema sample for the United States (All 50 States & Washington, D.C.) classified by 6-Digit NAICS 2022 & 4-Digit US SIC. Maintained by BigDataLowCost.com (full production repository: 1,064,565 active US companies, 596,248 verified corporate emails, 982,410 direct business phones; $125.00 USD one-time license).",
+  "homepage": "https://bigdatalowcost.com/databases/best-usa-email-business-database/",
+  "version": "2026.4.0",
+  "created": "2026-11-01",
+  "keywords": [
+    "usa business email list",
+    "us company database excel",
+    "buy b2b email list usa",
+    "naics company directory csv",
+    "united states b2b database",
+    "corporate email database usa"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Pablo Cirre",
+      "role": "author",
+      "organization": "BigDataLowCost.com",
+      "path": "https://bigdatalowcost.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "United States B2B Companies & Email Database in Excel (.xlsx / .csv) — BigDataLowCost.com",
+      "path": "https://bigdatalowcost.com/databases/best-usa-email-business-database/"
+    },
+    {
+      "title": "Interactive USA Free Excel Sample & State/NAICS Filter Portal",
+      "path": "https://bigdatalowcost.com/free-demo/?country=united-states"
+    }
+  ],
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "usa-b2b-companies-sample-2026",
+      "path": "usa-b2b-companies-business-email-dataset-sample-50-rows-2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Company_ID",
+            "type": "string",
+            "description": "Unique cross-registry US entity key (US-100001 ...)"
+          },
+          {
+            "name": "Company_Legal_Name",
+            "type": "string",
+            "description": "Official registered US corporate name including legal entity suffix (Inc., LLC, Corp., LP)"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "description": "Standardized country name (United States)"
+          },
+          {
+            "name": "State_Province",
+            "type": "string",
+            "description": "Two-letter US postal state abbreviation (NY, CA, TX, IL, FL, GA, MA, WA, CO, PA, AZ, NC)"
+          },
+          {
+            "name": "City",
+            "type": "string",
+            "description": "Registered US city / metropolitan hub"
+          },
+          {
+            "name": "Postal_ZIP_Code",
+            "type": "string",
+            "description": "5-digit US ZIP code"
+          },
+          {
+            "name": "Street_Address",
+            "type": "string",
+            "description": "Registered headquarters street address"
+          },
+          {
+            "name": "Corporate_Email",
+            "type": "string",
+            "description": "Verified corporate domain email (SMTP & MX Verified Q4 2026)"
+          },
+          {
+            "name": "Direct_Phone",
+            "type": "string",
+            "description": "E.164 +1 formatted US corporate switchboard or direct telephone"
+          },
+          {
+            "name": "Website_URL",
+            "type": "string",
+            "description": "Canonical HTTPS corporate domain"
+          },
+          {
+            "name": "Industry_Code_Standard",
+            "type": "string",
+            "description": "Classification taxonomy (6-Digit NAICS 2022 & 4-Digit US SIC)"
+          },
+          {
+            "name": "Primary_Industry_Code",
+            "type": "string",
+            "description": "Primary 6-digit US NAICS 2022 code"
+          },
+          {
+            "name": "Industry_Description",
+            "type": "string",
+            "description": "Normalized English B2B vertical description"
+          },
+          {
+            "name": "Employee_Size_Bracket",
+            "type": "string",
+            "description": "Estimated US corporate headcount bracket (10-49, 50-249, 250+ Employees)"
+          },
+          {
+            "name": "Verification_Status",
+            "type": "string",
+            "description": "DNS MX, SMTP handshake & Secretary of State verification stamp"
+          }
+        ],
+        "primaryKey": "Company_ID"
+      }
+    }
+  ]
+}
