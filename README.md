@@ -32,6 +32,10 @@ Open 50-row schema evaluation sample from the **United States (USA — All 50 St
 - **North America 3-Country Bundle (USA, Canada & Mexico — 2,021,314 Firms):** https://bigdatalowcost.com/databases/north-america-b2b-email-business-database-pack/
 - **Full Global B2B Catalog (35 Datasets & Regional Packs):** https://bigdatalowcost.com/business-databases-for-sale/
 - **Machine-Readable LLM Catalog (`/llms.txt`):** https://bigdatalowcost.com/llms.txt
+- **Hugging Face Dataset Hub (`DR 93`):** https://huggingface.co/datasets/branvan3000/usa-b2b-companies-business-email-dataset-sample
+- **Kaggle Datasets Repository (`DR 92`):** https://www.kaggle.com/datasets/pablocirre/usa-b2b-companies-email-database-sample-2026
+- **Zenodo CERN DOI Repository (`DR 92`):** https://zenodo.org/records/23912917 (`DOI: 10.5281/zenodo.23912917` — https://doi.org/10.5281/zenodo.23912917)
+- **GitHub Pages Schema Hub (`DR 91`):** https://pablocirre.github.io/usa-b2b-companies-business-email-dataset-sample/
 
 ---
 
